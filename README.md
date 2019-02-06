@@ -1,5 +1,10 @@
-# Marble Marcher
+# Marble Marcher for Linux
 
+This is a fork of [Marble Marcher](https://github.com/HackerPoet/MarbleMarcher) with precomipled libraries and a binary in order to easily run on Linux. Click [here](https://github.com/yellowcrash10/MarbleMarcher-Linux/archive/master.zip) to download it. Just unzip it and execute start.sh. Alternatively, you can install the [Lutris](https://lutris.net) game manager and click [here](lutris:marble-marcher-update-5) to do these steps automatically.
+
+This was tested on Ubuntu 16.04 and Solus.
+
+## Original Description
 [![Build Status](https://travis-ci.org/jgoldfar/MarbleMarcher.svg?branch=master)](https://travis-ci.org/jgoldfar/MarbleMarcher)
 
 Marble Marcher is a video game demo that uses a fractal physics engine and fully procedural rendering to produce beautiful and unique gameplay unlike anything you've seen before.
