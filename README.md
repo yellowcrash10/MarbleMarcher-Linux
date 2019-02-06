@@ -1,6 +1,6 @@
 # Marble Marcher for Linux
 
-This is a fork of [Marble Marcher](https://github.com/HackerPoet/MarbleMarcher) with precomipled libraries and a binary in order to easily run on Linux. Click [here](https://github.com/yellowcrash10/MarbleMarcher-Linux/archive/master.zip) to download it. Just unzip it and execute start.sh. Alternatively, you can install the [Lutris](https://lutris.net) game manager, go to [this page](https://lutris.net/games/marble-marcher/), click "show unpublished installers", and click install next to "Update 5 version" to download the game automatically and run it from a nice interface.
+This is a fork of [Marble Marcher](https://github.com/HackerPoet/MarbleMarcher) with precomipled libraries and a binary in order to easily run on Linux. Click [here](https://github.com/yellowcrash10/MarbleMarcher-Linux/archive/master.zip) (or clone this repository) to download it. Just unzip it and execute start.sh. Alternatively, you can install the [Lutris](https://lutris.net) game manager, go to [this page](https://lutris.net/games/marble-marcher/), click "show unpublished installers", and click install next to "Update 5 version" to download the game automatically and run it from a nice interface.
 
 This was tested on Ubuntu 16.04 and Solus.
 
